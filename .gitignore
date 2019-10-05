@@ -1,0 +1,6 @@
+*.pyc
+.ipynb_checkpoints
+models
+features/*.mat
+data/
+data_forgery/
